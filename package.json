@@ -1,0 +1,26 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbfield/npm-practice.git"
+  },
+  "keywords": [],
+  "author": "Christopher Basketfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbfield/npm-practice/issues"
+  },
+  "homepage": "https://github.com/cbfield/npm-practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.0"
+  }
+}
